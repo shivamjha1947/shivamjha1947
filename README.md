@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @shivamjha1947 and I am here to help students like me who never had good guidance and seniors.
 - 👀 I’m interested in coding, Data structures and algorithms, Web development, Software development, Web3 and Blockchain development.
 - 🌱 I’m currently working on projects on Frontend development (HTML, CSS, Javascript, React, REST API).
-- 💻 My Coding profiles : LEETCODE:  https://leetcode.com/shivam36_soe/   GFG: https://auth.geeksforgeeks.org/user/shivam36soe/practice/
+- 💻 My Coding profiles : LEETCODE:  https://leetcode.com/shivam36_soe/   
+GFG: https://auth.geeksforgeeks.org/user/shivam36soe/practice/
 - 📫 How to reach me: Mail: shivam36_soe@jnu.ac.in, Linkedin: https://www.linkedin.com/in/shivamjha11/
 
 <!---
