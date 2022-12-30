@@ -9,3 +9,9 @@
 shivamjha1947/shivamjha1947 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamjha1947&theme=radical)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamjha1947&show_icons=true&locale=en&layout=compact&theme=radical" alt="shivamjha1947" /></p>
